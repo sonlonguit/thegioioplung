@@ -1,0 +1,2 @@
+2021-06-19T10:24:29+00:00 CRITICAL require(): Failed opening required '/home/thegioio/domains/thegioioplung.xyz/public_html/wp-content/plugins/better-wp-security/core/container.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/thegioio/domains/thegioioplung.xyz/public_html/wp-content/plugins/better-wp-security/core/modules.php on line 661
+

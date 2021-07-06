@@ -1,0 +1,1717 @@
+a:2:{s:6:"expire";i:10080;s:7:"content";s:136555:"<!DOCTYPE html>
+<html lang="vi">
+<head>
+
+
+<title>
+    Ốp lưng, bao da điện thoại giá rẻ, mẫu đẹp, giao trong 1h - FPT Shop
+</title>
+<meta name="title" content="Ốp lưng, bao da điện thoại giá rẻ, mẫu đẹp, giao trong 1h - FPT Shop"/><meta name="description" content="Mua ốp lưng, bao da điện thoại, laptop, máy tính bảng chính hãng, đa dạng mẫu mã, màu sắc, giá rẻ hơn tại FPT Shop. Giao nhanh trong 1h, bảo hành uy tín, đổi trả dễ dàng."/>    <meta name="keywords" content=""/>
+    <link href="http://fptshop.api.sociaplus.com/views/push/manifest/"/>
+    <link rel="canonical" href="https://fptshop.com.vn/phu-kien/bao-da-op-lung"/>
+    <meta name="RATING" content="GENERAL"/>
+    <link href="" rel="shortcut icon" type="image/x-icon"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="copyright" content="Công ty Cổ phần Bán lẻ Kỹ thuật số FPT">
+    <meta name="author" content="Công ty Cổ phần Bán lẻ Kỹ thuật số FPT">
+    <meta http-equiv="audience" content="General">
+    <meta name="resource-type" content="Document">
+    <meta name="distribution" content="Global">
+    <meta content="INDEX,FOLLOW" name="robots"/>
+    <meta name="revisit-after" content="1 days"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="GENERATOR" content="Công ty Cổ phần Bán lẻ Kỹ thuật số FPT">
+    <meta property="og:site_name" content="FPTShop.com.vn"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="vi_VN"/>
+    <meta name="referrer" content="no-referrer-when-downgrade">
+<meta property="og:title" content="&#x1ED0;p l&#x1B0;ng, bao da &#x111;i&#x1EC7;n tho&#x1EA1;i gi&#xE1; r&#x1EBB;, m&#x1EAB;u &#x111;&#x1EB9;p, giao trong 1h - FPT Shop"/>
+                <meta property="og:description" content="Mua &#x1ED1;p l&#x1B0;ng, bao da &#x111;i&#x1EC7;n tho&#x1EA1;i, laptop, m&#xE1;y t&#xED;nh b&#x1EA3;ng ch&#xED;nh h&#xE3;ng, &#x111;a d&#x1EA1;ng m&#x1EAB;u m&#xE3;, m&#xE0;u s&#x1EAF;c, gi&#xE1; r&#x1EBB; h&#x1A1;n t&#x1EA1;i FPT Shop. Giao nhanh trong 1h, b&#x1EA3;o h&#xE0;nh uy t&#xED;n, &#x111;&#x1ED5;i tr&#x1EA3; d&#x1EC5; d&#xE0;ng."/>
+                                <meta itemprop="description" content="Mua &#x1ED1;p l&#x1B0;ng, bao da &#x111;i&#x1EC7;n tho&#x1EA1;i, laptop, m&#xE1;y t&#xED;nh b&#x1EA3;ng ch&#xED;nh h&#xE3;ng, &#x111;a d&#x1EA1;ng m&#x1EAB;u m&#xE3;, m&#xE0;u s&#x1EAF;c, gi&#xE1; r&#x1EBB; h&#x1A1;n t&#x1EA1;i FPT Shop. Giao nhanh trong 1h, b&#x1EA3;o h&#xE0;nh uy t&#xED;n, &#x111;&#x1ED5;i tr&#x1EA3; d&#x1EC5; d&#xE0;ng."/>    <meta itemprop="name" content="&#x1ED0;p l&#x1B0;ng, bao da &#x111;i&#x1EC7;n tho&#x1EA1;i gi&#xE1; r&#x1EBB;, m&#x1EAB;u &#x111;&#x1EB9;p, giao trong 1h - FPT Shop"/>
+
+    <meta property="fb:pages" content="948243871965133"/>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="//fptshop.com.vn/Content/v4/css/header.footer.css"/>
+
+    <link href="/phu-kien/bundle/css/style.min.css?v=zj0iZUJyOr5UJiANbWC10g9SFi7HMJD6m4OfdJ8cob0" rel="stylesheet"/>
+
+
+
+    
+    
+
+
+    <!--[if lt IE 9]>
+    <script src="assets/scripts/libs/jquery/html5shiv.min.js"></script>
+    <script src="assets/scripts/libs/respond/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="/phu-kien/bundle/js/function.min.js?v=TKuIffQNqlsPhGY5oGcIjwbo6f0YJvg0epZS8V6U41w"></script>
+    <!--KEY MAP ONLINE-->
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDuL1T3EzpFe3e2hW5QevyPJiR2uoW7_nY&sensor=false&output=html"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W84P7P');</script>
+    <!-- End Google Tag Manager -->
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-36867340-1','auto');ga('require','GTM-PHK43FL');ga('send','pageview');ga('require','ecommerce','ecommerce.js');</script>
+    
+    <style>.fs-sremain{position:-webkit-sticky!important;width:100%!important}</style>
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W84P7P" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+<header class="fs-header">
+    <div class="f-hdtop">
+        <div class="f-wrap">
+            <a class="fs-logo" href="/" title="" aria-label="FPTShop" onclick="ga('send', 'event', 'Header ', 'Click Header', 'Logo');"><i class="ficon f-logo"></i></a>
+            <ul class="fs-hdmn">
+                
+                
+                <li>
+                    <a href="/tin-tuc" title="" onclick="ga('send', 'event', 'Header ', 'Click Header', 'Thông tin hay');"><i class="demo-icon icon-document"></i><span>Thông tin hay</span></a>
+                    <ul class="fs-hdmsub fs-hdmsnews">
+                        <li class=""><a href="/tin-tuc" title="">Tin mới</a></li>
+                        <li><a href="/tin-tuc/tin-khuyen-mai" title="">Khuyến mãi</a></li>
+                        <li><a href="/tin-tuc/thu-thuat" title="">Thủ thuật</a></li>
+                        <li><a href="/tin-tuc/for-gamers" title="">For Gamers</a></li>
+                        <li><a href="/tin-tuc/video-hot" title="">Video hot</a></li>
+                        <li><a href="/tin-tuc/danh-gia" title="">Đánh giá - tư vấn</a></li>
+                        <li><a href="/tin-tuc/giai-tri" title="">App & Game</a></li>
+                        <li><a href="/tin-tuc/su-kien" title="">Sự kiện</a></li>
+                        
+                        
+                        
+                    </ul>
+                </li>
+                
+                
+                <li><a href="/dich-vu" title="Thu hộ điện, nước" onclick="ga('send', 'event', 'Header ', 'Click Header', 'Thu hộ điện, nước');"><i class="demo-icon icon-we"></i><span>Thu hộ điện, nước</span></a></li>
+                <li><a href="/gio-hang-v2" title="" onclick="ga('send', 'event', 'Header ', 'Click Header', 'Giỏ hàng');"><i class="demo-icon icon-basket"></i><span>Giỏ hàng</span><b class="fs-cartic countTotalCart" style="display: none;">0</b></a></li>
+            </ul>
+            <div class="fs-search">
+                <form action="" method="get" autocomplete="off">
+                    <label for="key" class="mf-vhiditem">Nhập tên điện thoại, máy tính, phụ kiện... cần tìm</label>
+                    <input class="fs-stxt" type="text" id="key" name="" placeholder="Nhập tên điện thoại, máy tính, phụ kiện... cần tìm" autocomplete="off" maxlength="50">
+					<span class="icon-cance" id="icon-cance" style="display:none" title="Xóa">✕</span>
+                    <button type="submit" aria-label="Tìm kiếm" class="search-button" title="Tìm kiếm"><i class="ficon f-search"></i></button>
+                    <div class="fs-sresult" id="result" style="display : none !important;">
+                        <div class="fs-sremain">
+                            <ul></ul>
+                        </div>
+                    </div>
+					<!-- New -->
+					<div class="fs-result suggest-box sugg-his" style="display: none;">
+						<div class="suggest-title">Lịch sử tìm kiếm
+							<span class="ic-clear">Xóa</span>
+						</div>
+						<ul>
+						</ul>
+					</div>
+					<div class="fs-result suggest-box suggest-box-propensity" style="display: none;">
+						<div class="suggest-title">Xu hướng tìm kiếm
+						</div>
+						<ul>
+						</ul>
+					</div>
+					<div class="fs-result suggest suggest-box" style="display: none;">
+						<div class="suggest-left">
+							<div class="fs-result-box fs-suggest-text">
+								<ul></ul>
+							</div>
+							<!--<div class="line"></div> -->
+							<div class="fs-result-box fs-suggest-cate">
+								<ul></ul>
+							</div>
+						</div>
+						<div class="suggest-right">
+							<div class="fs-result-box fs-suggest-product">
+								<div class="suggest-title">Sản phẩm được tìm nhiều
+								</div>
+								<ul></ul>
+								<div class="suggest-title suggest-news">Bài viết được tìm nhiều
+								</div>
+								<ul class="news-list"></ul>
+							</div>
+						</div>
+					</div>
+					<!-- end new -->
+                </form>
+            </div>
+        </div>
+		<input id="queryID" queryid="" hidden="" style="display:none">
+		<input id="userIP" ip-user="" hidden style="display:none">
+    </div>
+    <nav class="fs-menu">
+        <div class="f-wrap">
+            <ul class="fs-mnul clearfix">
+                <li>
+                    <a href="/dien-thoai" title="ĐIỆN THOẠI" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'ĐIỆN THOẠI');"><i class="demo-icon icon-mobile"></i>ĐIỆN THOẠI <span class="ficon"></span></a>
+                    <div class="fs-mnsub">
+                        <div class="fs-mnbox">
+                                    <div class="fs-mntd fs-mntd1">
+                                        <p class="fs-mnstit">H&#227;ng sản xuất</p>
+                                        <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/dien-thoai/apple-iphone" title="Apple (iPhone)" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Apple (iPhone)');">Apple (iPhone)</a></li>
+                                                <li><a href="/dien-thoai/samsung" title="Samsung" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Samsung');">Samsung</a></li>
+                                                <li><a href="/dien-thoai/oppo" title="OPPO" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'OPPO');">OPPO</a></li>
+                                                <li><a href="/dien-thoai/xiaomi" title="Xiaomi" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Xiaomi');">Xiaomi</a></li>
+                                                <li><a href="/dien-thoai/vivo" title="Vivo" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Vivo');">Vivo</a></li>
+                                                <li><a href="/dien-thoai/realme" title="Realme" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Realme');">Realme</a></li>
+                                                <li><a href="/dien-thoai/vsmart" title="Vsmart" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Vsmart');">Vsmart</a></li>
+                                                <li><a href="/dien-thoai/nokia" title="Nokia" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Nokia');">Nokia</a></li>
+                                                <li><a href="/dien-thoai/masstel" title="Masstel" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Masstel');">Masstel</a></li>
+                                        </ul>
+                                            <a href="/smartwatch" title="ĐỒNG HỒ THÔNG MINH" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'ĐỒNG HỒ THÔNG MINH');"><p class="fs-mnstit">ĐỒNG HỒ THÔNG MINH</p></a>
+                                            <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/smartwatch/apple-watch" title="Apple Watch" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Apple Watch');">Apple Watch</a></li>
+                                                <li><a href="/smartwatch/samsung" title="Samsung" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Samsung');">Samsung</a></li>
+												<li><a href="/smartwatch/oppo" title="Oppo" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Oppo');">Oppo</a></li>
+                                                <li><a href="/smartwatch/masstel" title="Masstel" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Masstel');">Masstel</a></li>
+                                                <li><a href="/smartwatch/xiaomi" title="Xiaomi" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Xiaomi');">Xiaomi</a></li>
+                                                
+												<li><a href="/smartwatch/garmin" title="Garmin" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Garmin');">Garmin</a></li>
+												
+												<li><a href="/smartwatch/huawei" title="Huawei" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Huawei');">Huawei</a></li>
+                                            </ul>
+                                    </div>
+                                    <div class="fs-mntd fs-mntd2">
+                                        <p class="fs-mnstit">Mức gi&#225;</p>
+                                        <ul class="fs-mnsul fs-mnsul1 clearfix">
+                                                <li><a href="/dien-thoai/duoi-1-trieu" title="Dưới 2 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Dưới 2 triệu');">Dưới 2 triệu</a></li>
+                                                <li><a href="/dien-thoai/tu-1-3-trieu" title="Từ 2 - 4 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 2 - 4 triệu');">Từ 2 - 4 triệu</a></li>
+                                                <li><a href="/dien-thoai/tu-3-6-trieu" title="Từ 4 - 7 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 4 - 7 triệu');">Từ 4 - 7 triệu</a></li>
+                                                <li><a href="/dien-thoai/tu-6-10-trieu" title="Từ 7 - 13 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 7 - 13 triệu');">Từ 7 - 13 triệu</a></li>
+                                                <li><a href="/dien-thoai/tren-15-trieu" title="Tr&#234;n 13 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Tr&#234;n 13 triệu');">Tr&#234;n 13 triệu</a></li>
+                                        </ul>
+                                    </div>
+                            <div class="fs-mntd fs-mntd3">
+                                <p class="fs-mnstit">Bán chạy nhất</p>
+                                <ul class="fs-mnsprod">
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/dien-thoai/samsung-galaxy-s21-plus-256gb">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/3/16/637515070719766208_ss-s21-plus-den-dd.jpg" alt="Samsung Galaxy S21+ 256GB"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/dien-thoai/samsung-galaxy-s21-plus-256gb" title="">Samsung Galaxy S21+ 256GB</a></span>
+                                                <p>20.990.000 ₫</p>
+                                            </div>
+                                        </li>
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/dien-thoai/xiaomi-poco-x3-pro">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/5/19/637570519716076314_poco-x3-pro-den-dd.jpg" alt="Xiaomi POCO X3 Pro NFC 8GB-256GB"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/dien-thoai/xiaomi-poco-x3-pro" title="">Xiaomi POCO X3 Pro NFC 8GB-256GB</a></span>
+                                                <p>7.190.000 ₫</p>
+                                            </div>
+                                        </li>
+                                </ul>
+                                
+                            </div>
+                            <div class="fs-mntd fs-mntd4">
+                                    <a target="_blank" href="https://fptshop.com.vn/dien-thoai/iphone-12-series" title="iPhone 12 H4">
+                                        <img src="https://images.fpt.shop/unsafe/fit-in/248x248/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/6/26/637603474568801150_F-H4_248x248.png" alt="iPhone 12 H4">
+                                    </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a href="/may-tinh-xach-tay" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'LAPTOP');" title=""><i class="demo-icon icon-laptop"></i> LAPTOP <span class="ficon"></span></a>
+                    <div class="fs-mnsub">
+                        <div class="fs-mnbox">
+                                    <div class="fs-mntd fs-mntd1">
+                                        <p class="fs-mnstit">H&#227;ng sản xuất</p>
+                                        <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/may-tinh-xach-tay/apple-macbook" title="Apple (Macbook)" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Apple (Macbook)');">Apple (Macbook)</a></li>
+                                                <li><a href="/may-tinh-xach-tay/asus" title="Asus" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Asus');">Asus</a></li>
+                                                <li><a href="/may-tinh-xach-tay/dell" title="Dell" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Dell');">Dell</a></li>
+                                                <li><a href="/may-tinh-xach-tay/acer" title="Acer" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Acer');">Acer</a></li>
+                                                <li><a href="/may-tinh-xach-tay/hp" title="HP" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'HP');">HP</a></li>
+                                                <li><a href="/may-tinh-xach-tay/lenovo" title="Lenovo" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Lenovo');">Lenovo</a></li>
+                                                <li><a href="/may-tinh-xach-tay/microsoft" title="Microsoft (Surface)" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Microsoft (Surface)');">Microsoft (Surface)</a></li>
+                                                <li><a href="/may-tinh-xach-tay/msi" title="MSI" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'MSI');">MSI</a></li>
+                                                <li><a href="/may-tinh-xach-tay/avita" title="Avita" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Avita');">Avita</a></li>
+                                        </ul>
+                                            <p class="fs-mnstit"><a href="/phan-mem" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'PHẦN MỀM');">PHẦN MỀM</a></p>
+                                            <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/phan-mem/diet-virus" title="Phần mềm Diệt Virus" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Diệt Virus');">Diệt Virus</a></li>
+                                                <li><a href="/phan-mem/microsoft-office" title="Phần mềm Microsoft Office" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Microsoft Office');">Microsoft Office</a></li>
+                                                <li><a href="/phan-mem/windows" title="Phần mềm windows" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Windows');">Windows</a></li>
+                                                <li><a href="/phan-mem/phan-mem-khac" title="Phần mềm Phần mềm khác" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Phần mềm khác');">Phần mềm khác</a></li>
+                                            </ul>
+                                                                                    <p class="fs-mnstit"><a href="/may-in" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'MÁY IN');">MÁY IN</a></p>
+                                            <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/may-in?thuong-hieu=hp" title="HP" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'HP');">HP</a></li>
+                                                <li><a href="/may-in?thuong-hieu=canon" title="Canon" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Canon');">Canon</a></li>
+												<li><a href="/may-in?thuong-hieu=brother" title="Brother" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Brother');">Brother</a></li>
+                                            </ul>
+                                    </div>
+                                    <div class="fs-mntd fs-mntd2">
+                                        <p class="fs-mnstit">Mức gi&#225;</p>
+                                        <ul class="fs-mnsul fs-mnsul1 clearfix">
+                                                <li><a href="/may-tinh-xach-tay/duoi-5-trieu" title="Dưới 5 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Dưới 5 triệu');">Dưới 5 triệu</a></li>
+                                                <li><a href="/may-tinh-xach-tay/tu-5-10-trieu" title="Từ 5 - 10 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 5 - 10 triệu');">Từ 5 - 10 triệu</a></li>
+                                                <li><a href="/may-tinh-xach-tay/tu-10-15-trieu" title="Từ 10 - 15 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 10 - 15 triệu');">Từ 10 - 15 triệu</a></li>
+                                                <li><a href="/may-tinh-xach-tay/tu-15-20-trieu" title="Từ 15 - 20 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 15 - 20 triệu');">Từ 15 - 20 triệu</a></li>
+                                                <li><a href="/may-tinh-xach-tay/tu-20-25-trieu" title="Từ 20 - 25 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 20 - 25 triệu');">Từ 20 - 25 triệu</a></li>
+                                                <li><a href="/may-tinh-xach-tay/tu-25-30-trieu" title="Từ 25 - 30 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Từ 25 - 30 triệu');">Từ 25 - 30 triệu</a></li>
+                                                <li><a href="/may-tinh-xach-tay/tren-30-trieu" title="Tr&#234;n 30 triệu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Tr&#234;n 30 triệu');">Tr&#234;n 30 triệu</a></li>
+                                        </ul>
+                                                                            </div>
+                            
+                            
+                            <div class="fs-mntd fs-mntd4">
+                                    <a target="_blank" href="https://fptshop.com.vn/tim-kiem/macbook-m1" title="MacBook H4">
+                                        <img src="https://images.fpt.shop/unsafe/fit-in/248x248/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/6/26/637603478127627610_F-H4_248x248.png" alt="MacBook H4">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a rel="nofollow" href="/apple" title=""><i class="demo-icon icon-apple" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'APPLE');"></i> APPLE <span class="ficon"></span></a>
+                    <div class="fs-mnsub">
+                        <div class="fs-mnbox">
+                            <div class="fs-mntd fs-mntd1">
+                                <p class="fs-mnstit">C&#225;c sản phẩm Apple</p>
+                                <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                    <li><a href="/apple/iphone" title="iPhone" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'iPhone');">iPhone</a></li>
+                                    <li><a href="/apple/ipad" title="iPad" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'iPad');">iPad</a></li>
+                                    <li><a href="/apple/macbook" title="Macbook" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Macbook');">Macbook</a></li>
+									<li><a href="/apple/watch" title="Apple Watch" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Apple Watch');">Apple Watch</a></li>
+									<li><a href="/apple/tai-nghe" title="Tai nghe" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Apple Tai nghe');">Apple Tai nghe</a></li>
+                                    <li><a href="/apple/imac" title="iMac" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'iMac');">iMac</a></li>
+									<li><a href="/apple/mac-mini" title="Mac Mini" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Mac Mini');">Mac Mini</a></li>
+                                    <li><a href="/apple/sac-cap" title="Sạc & Cáp" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Sạc & Cáp');">Sạc & Cáp</a></li>
+                                    <li><a href="/apple/cover" title="Ốp lưng & Bao da" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Ốp lưng & Bao da');">Ốp lưng & Bao da</a></li>
+									<li><a href="/apple/tv-box" title="Apple TV" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Apple TV');">Apple TV</a></li>
+									<li><a href="/apple/chuot" title="Chuột & Trackpad" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Chuột & Trackpad');">Chuột & Trackpad</a></li>
+                                    <li><a href="/apple/ban-phim" title="Bàn phím" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Bàn phím');">Bàn phím</a></li>
+									<li><a href="/tim-kiem/airtag" title="Airtag" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'AirTag');">AirTag</a></li>
+                                    <li><a href="/ban-hang-doanh-nghiep" title="Hàng dự án" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover ', 'Hàng dự án');">Hàng dự án</a></li>									
+                                </ul>
+                            </div>
+                            
+                            <div class="fs-mntd fs-mntd3">
+                                <p class="fs-mnstit">Bán chạy nhất</p>
+                                <ul class="fs-mnsprod">
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/dien-thoai/iphone-11-64gb">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370871358_ip-11-dd.png" alt="iPhone 11 64GB"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/dien-thoai/iphone-11-64gb" title="">iPhone 11 64GB</a></span>
+                                                <p>14.990.000 ₫</p>
+                                            </div>
+                                        </li>
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/dien-thoai/iphone-12-64gb">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/22/637546879521249423_ip-12-dd-a2.jpg" alt="iPhone 12 64GB"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/dien-thoai/iphone-12-64gb" title="">iPhone 12 64GB</a></span>
+                                                <p>19.990.000 ₫</p>
+                                            </div>
+                                        </li>
+                                </ul>
+                            </div>
+                            <div class="fs-mntd fs-mntd4">
+                                    <a target="_blank" href="https://fptshop.com.vn/dien-thoai/iphone-11-64gb" title="iPhone 11 H4">
+                                        <img src="https://images.fpt.shop/unsafe/fit-in/248x248/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/6/26/637603473635347574_F-H4_248x248.png" alt="iPhone 11 H4">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a href="/dong-ho" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'ĐỒNG HỒ');">
+                        <i class="demo-icon icon-watch"></i> ĐỒNG HỒ
+                    </a>
+                </li>
+                
+                
+                <li>
+                    <a href="/phu-kien" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'PHỤ KIỆN');"><i class="demo-icon icon-supp"></i> PHỤ KIỆN <span class="ficon"></span></a>
+                    <div class="fs-mnsub">
+                        <div class="fs-mnbox">
+                                    <div class="fs-mntd fs-mntd1">
+                                        <p class="fs-mnstit">C&#225;c sản phẩm Phụ Kiện</p>
+                                        <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/phu-kien/bao-da-op-lung" title="Bao da ốp lưng" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Bao da ốp lưng');">Bao da ốp lưng</a></li>
+                                                <li><a href="/phu-kien/sac-du-phong" title="Sạc dự ph&#242;ng" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Sạc dự ph&#242;ng');">Sạc dự ph&#242;ng</a></li>
+                                                <li><a href="/phu-kien/the-nho" title="Thẻ nhớ" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Thẻ nhớ');">Thẻ nhớ</a></li>
+                                                <li><a href="/phu-kien/phu-kien-apple" title="Phụ kiện Apple" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Phụ kiện Apple');">Phụ kiện Apple</a></li>
+                                                <li><a href="/phu-kien/mieng-dan-man-hinh" title="Miếng d&#225;n m&#224;n h&#236;nh" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Miếng d&#225;n m&#224;n h&#236;nh');">Miếng d&#225;n m&#224;n h&#236;nh</a></li>
+                                                <li><a href="/phu-kien/tai-nghe" title="Tai nghe" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Tai nghe');">Tai nghe</a></li>
+                                                <li><a href="/phu-kien/loa" title="Loa" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Loa');">Loa</a></li>
+                                                <li><a href="/phu-kien/usb-o-cung" title="USB - Ổ cứng" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'USB - Ổ cứng');">USB - Ổ cứng</a></li>
+                                                <li><a href="/phu-kien/sac-cap" title="Sạc c&#225;p" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Sạc c&#225;p');">Sạc c&#225;p</a></li>
+                                                <li><a href="/phu-kien/chuot" title="Chuột" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Chuột');">Chuột</a></li>
+                                                <li><a href="/phu-kien/balo-tui-xach" title="Balo - T&#250;i x&#225;ch" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Balo - T&#250;i x&#225;ch');">Balo - T&#250;i x&#225;ch</a></li>
+                                                <li><a href="/phu-kien/tv-box" title="TV BOX" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'TV BOX');">TV BOX</a></li>
+                                                <li><a href="/phu-kien/phu-kien-khac" title="Phụ kiện kh&#225;c" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Phụ kiện kh&#225;c');">Phụ kiện kh&#225;c</a></li>
+                                            <li><a href="//fptshop.com.vn/phu-kien/ban-phim" title="Phụ kiện bàn phím" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Bàn phím');">Bàn phím</a></li>
+                                            <li><a href="//fptshop.com.vn/phu-kien-cu" title="Phụ kiện cũ" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Phụ kiện cũ');">Phụ kiện cũ</a></li>
+                                        </ul>
+                                    </div>
+                            <div class="fs-mntd fs-mntd3">
+                                <p class="fs-mnstit">Bán chạy nhất</p>
+                                <ul class="fs-mnsprod">
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/phu-kien/combo-loa-bluetooth-karaoke-ivalue-f12-65n-nhua-den-mic-khong-day">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/6/17/636963759454365620_HASP-00554636-dd-1.png" alt="Combo Loa Bluetooth Karaoke i.value F12-65N Nhựa đen + Mic kh&#244;ng d&#226;y"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/phu-kien/combo-loa-bluetooth-karaoke-ivalue-f12-65n-nhua-den-mic-khong-day" title="">Combo Loa Bluetooth Karaoke i.value F12-65N Nhựa đen + Mic kh&#244;ng d&#226;y</a></span>
+                                                <p>1.674.000 ₫</p>
+                                            </div>
+                                        </li>
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/phu-kien/pin-sac-du-phong-quick-charge-li-polymer-10000mah-umetravel-trip10000">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/1/14/637146111983706760_Trip10000_Black.jpg" alt="Pin sạc dự ph&#242;ng Quick Charge Li-polymer 10000mAH UMETRAVEL TRIP10000"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/phu-kien/pin-sac-du-phong-quick-charge-li-polymer-10000mah-umetravel-trip10000" title="">Pin sạc dự ph&#242;ng Quick Charge Li-polymer 10000mAH UMETRAVEL TRIP10000</a></span>
+                                                <p>799.000 ₫</p>
+                                            </div>
+                                        </li>
+                                </ul>
+                            </div>
+                            <div class="fs-mntd fs-mntd4">
+                                    <a target="_blank" href="https://fptshop.com.vn/phu-kien/fpt-play-box-550" title="FPT Play Box 2020 H4">
+                                        <img src="https://images.fpt.shop/unsafe/fit-in/248x248/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/6/14/637592558909194642_fpt play box H4.png" alt="FPT Play Box 2020 H4">
+                                    </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+                <li><a href="/may-doi-tra" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'Máy cũ giá rẻ');"><i class="demo-icon icon-renew"></i> Máy cũ giá rẻ</a></li>
+                <li>
+                    <a href="/may-tinh-bang" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'Tablet');"><i class="demo-icon icon-tablet"></i> TABLET <span class="ficon"></span></a>
+                    <div class="fs-mnsub">
+                        <div class="fs-mnbox">
+                                    <div class="fs-mntd fs-mntd1">
+                                        <p class="fs-mnstit">H&#227;ng sản xuất</p>
+                                        <ul class="fs-mnsul fs-mnsul3 clearfix">
+                                                <li><a href="/may-tinh-bang/apple-ipad" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Apple (iPad)');" title="Apple (iPad)">Apple (iPad)</a></li>
+                                                <li><a href="/may-tinh-bang/samsung" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Samsung');" title="Samsung">Samsung</a></li>
+                                                <li><a href="/may-tinh-bang/masstel" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Masstel');" title="Masstel">Masstel</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="fs-mntd fs-mntd2">
+                                        <p class="fs-mnstit">Mức gi&#225;</p>
+                                        <ul class="fs-mnsul fs-mnsul1 clearfix">
+                                                <li><a href="/may-tinh-bang/duoi-2-trieu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Dưới 2 triệu');" title="Dưới 2 triệu">Dưới 2 triệu</a></li>
+                                                <li><a href="/may-tinh-bang/tu-2-trieu-den-5-trieu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Từ 2 triệu đến 5 triệu');" title="Từ 2 triệu đến 5 triệu">Từ 2 triệu đến 5 triệu</a></li>
+                                                <li><a href="/may-tinh-bang/tu-5-trieu-den-8-trieu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Từ 5 triệu đến 8 triệu');" title="Từ 5 triệu đến 8 triệu">Từ 5 triệu đến 8 triệu</a></li>
+                                                <li><a href="/may-tinh-bang/tren-8-trieu" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Tr&#234;n 8 triệu');" title="Tr&#234;n 8 triệu">Tr&#234;n 8 triệu</a></li>
+                                        </ul>
+                                    </div>
+                            <div class="fs-mntd fs-mntd3">
+                                <p class="fs-mnstit">Bán chạy nhất</p>
+                                <ul class="fs-mnsprod">
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/may-tinh-bang/ipad-10-2-2020-wi-fi-cellular-32gb">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/20/637361593919986930_ipad-2020-10-2-wi-fi-cel-dd.png" alt="iPad 10.2 2020 Wi-Fi + Cellular 32GB"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/may-tinh-bang/ipad-10-2-2020-wi-fi-cellular-32gb" title="">iPad 10.2 2020 Wi-Fi + Cellular 32GB</a></span>
+                                                <p>11.990.000 ₫</p>
+                                            </div>
+                                        </li>
+                                        <li class="clearfix">
+                                            <a class="fs-mnspimg" href="/may-tinh-bang/samsung-galaxy-tab-a7-lite">
+                                                <img src="https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/5/27/637577199955105403_ss-tab-a7-lite-bac-dd.jpg" alt="Samsung Galaxy Tab A7 Lite"/>
+                                            </a>
+                                            <div>
+                                                <span><a href="/may-tinh-bang/samsung-galaxy-tab-a7-lite" title="">Samsung Galaxy Tab A7 Lite</a></span>
+                                                <p>4.490.000 ₫</p>
+                                            </div>
+                                        </li>
+                                </ul>
+                                
+                            </div>
+                            <div class="fs-mntd fs-mntd4">
+                                    <a target="_blank" href="https://fptshop.com.vn/tim-kiem/ipad-pro-m1" title="iPad H4">
+                                        <img src="https://images.fpt.shop/unsafe/fit-in/248x248/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/6/6/637586151756345597_F-H4_248x248.png" alt="iPad H4">
+                                    </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="fs-mnulsb">
+                    <a href="/sim-so-dep" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'SIM & THẺ');"><i class="demo-icon icon-sim"></i> SIM & THẺ <span class="ficon"></span></a>
+                    <!--<ul class="fs-hdmsub fs-hdmsubsmall">
+                        <li><a href="/sim-so-dep" title="">SIM</a></li>
+                        <li><a href="/sim-the/mua-the-cao" title="">Thẻ cào</a></li>
+                        
+                        
+                    </ul>-->
+                </li>
+                <li class="fs-mnulsb">
+                    <a href="/khuyen-mai" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'KHUYẾN MÃI');"><i class="demo-icon icon-promo"></i> KHUYẾN MÃI </a>
+                    <ul class="fs-hdmsub fs-hdmsubsmall">
+                        <li><a href="/khuyen-mai/thong-tin-trao-thuong" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Thông tin trao thưởng');">Thông tin trao thưởng</a></li>
+                        <li><a href="/khuyen-mai" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Hover', 'Tất cả khuyến mại');">Tất cả khuyến mại</a></li>
+                    </ul>
+                </li>
+                
+                <li><a href="/ctkm/tra-gop-uu-dai" title="" onclick="ga('send', 'event', 'Header ', 'Click Navigation Bar', 'TRẢ GÓP 0%');"><i class="demo-icon icon-save"></i> TRẢ GÓP 0% </a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div class="over-suggest"></div>
+<style>.mf-vhiditem{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sg-p{padding:4px 16px 4px}.m-r-8{margin-right:8px}.m-b-4{margin-bottom:4px}.icon-search{color:#fff;font-size:28px}.icon-cance{position:absolute;z-index:1;color:#a2a2a2;top:50%;transform:translateY(-50%);right:0;padding-right:68px;font-size:16px;font-weight:600;cursor:pointer}.line{height:1px;margin:4px 16px;background-color:#e7e6e6}.fs-search form{width:540px}.fs-suggest-cate li a{color:#919191;font-size:14px;line-height:20px}.fs-suggest-cate li .hightText{color:#0168fa}.fs-suggest-product li{padding:8px 16px}.fs-suggest-product li:not(:last-child){box-shadow:0 1px 0 0 #e7e6e6}.fs-suggest-product li:focus,.fs-suggest-product li:hover{background-color:#f8f9fa}.suggest .sub-cate{color:#495057}.suggest-box{display:none;position:absolute;width:540px;overflow:hidden;box-shadow:0 1px 2px 0 rgba(0,0,0,.25);background-color:#fff;z-index:100;border-radius:0 0 4px 4px}.suggest-box li:focus,.suggest-box li:hover{background-color:#f8f9fa}.suggest-box a{color:#495057;display:block}.suggest-box .ic-clear{font-size:14px;font-weight:400;line-height:20px;color:#0168fa;float:right;cursor:pointer}.suggest-title{font-size:14px;font-weight:400;line-height:20px;color:#6c757d;background-color:#f8f9fa;padding:2px 16px;margin-bottom:4px}.pr-item{display:flex;justify-content:space-between}.pr-item__info{flex:1}.pr-item__info a[class*="btn-"]{display:inline-block;padding:2px 8px;border-radius:4px;background-color:#f8f9fa;font-size:14px;font-weight:400;line-height:1.43;color:#6c757d}.pr-item__img{width:60px;height:60px}.fs-result-box:not(:last-child){margin-bottom:16px}.pr-item__name,.pr-item__name a{font-size:16px;font-weight:400;line-height:normal;color:#0168fa;display:-webkit-box!important;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:2;word-break:break-word}.pr-item__name em,.pr-item__name .highlight{font-style:normal;font-weight:700}.pr-item__price{font-size:16px;font-weight:700;line-height:24px;color:#cb1c22;text-align:left}.pr-item__price .deal{display:inline-block;font-size:14px;font-weight:400;line-height:20px;color:#919191}.fs-header{z-index:100}.fs-search-result{line-height:28px;font-weight:400;color:#495057}.suggest{display:flex;width:750px;border-top-right-radius:4px}.suggest-right{width:400px;border-left:1px solid #e7e6e6}ol{list-style:none}.over-suggest{opacity:0;visibility:hidden;position:fixed;right:0;left:0;bottom:0;opacity:.7;background-color:rgba(0,0,0,.7);width:100%;height:100%;transition:all .3s;z-index:98}.ais-Highlight-highlighted{font-weight:700;color:inherit}.fs-search>form>button{z-index:2}.fs-suggest-tags{margin-top:4px}.suggest-left{width:350px;padding:8px 0}.suggest-right{padding-bottom:8px}.suggest-right .suggest-title{margin-bottom:0}.fs-suggest-tags ul{max-height:50px;overflow:hidden;display:flex;flex-wrap:wrap;columns:unset!important;-webkit-columns:unset!important;-moz-columns:unset!important;padding:0 4px}.fs-suggest-tags ul li{width:50%;padding:4px 4px 4px 12px}.fs-suggest-tags ul .sg-p a{font-size:14px;line-height:20px}.suggest-box.sugg-his,.suggest-box.suggest-box-propensity{padding:16px 0 12px}.f-hdtop{z-index:100}.fs-header .f-hdtop .f-wrap{overflow:unset!important}.fs-menu .f-wrap{background:#252525}.fs-search>form>input{padding:0 0 0 16px}.fs-search>form>input:focus{border-bottom-left-radius:0}.fs-stxt:focus{outline:none}.fpt-sale .sale-cd-timer{font-family:inherit;text-shadow:unset}.fpt-sale .sale-cd-timer ul li .cd-tm{font-weight:700}.fs-mnsub{z-index:60}.fpt-sale,.banner-cs,.fs-bnord,.section-box,.fs-bxh,.category-container,.main.main-wrapper:before,.main.main-wrapper:after{z-index:2!important}main.main-wrapper:after,main.main-wrapper:before{z-index:1!important}</style>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "FPTSHOP",
+    "alternateName": "Công ty cổ phần bán lẻ kỹ thuật số FPT",
+    "url": "https://fptshop.com.vn/",
+    "logo": "https://fptshop.com.vn/Content/images/logo.png",
+    "sameAs": [
+    "https://www.facebook.com/FPTShopOnline/",
+    "https://www.youtube.com/channel/UCReIrO3npnrMpRzB5xgE7fQ",
+    "https://www.linkedin.com/company/fpt-shop/",
+    "https://fptshop.com.vn/",
+    "https://vi.wikipedia.org/wiki/FPT_Retail"
+    ]
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://fptshop.com.vn/",
+    "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://fptshop.com.vn/tim-kiem/{search_term_string}",
+    "query-input": "required name=search_term_string"
+    }
+    }
+</script>
+
+    <main>
+        
+<script type="application/ld+json">
+    {"@context": "https://schema.org","@type": "BreadcrumbList","itemListElement":
+    [
+    {"@type": "ListItem","position": 1,"item": {
+    "@id": "https://fptshop.com.vn",
+    "name": "Fptshop"}
+    },
+    {"@type": "ListItem","position": 2,"item": {
+    "@id": "https://fptshop.com.vn/phu-kien",
+    "name": "Phụ kiện"}
+    },
+    {"@type": "ListItem","position": 3,"item": {
+    "@id": "https://fptshop.com.vn/phu-kien/bao-da-op-lung",
+    "name": "Bao da ốp lưng"}
+    }
+    ]
+    }
+</script>
+<script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Product","name":"Bao da ốp lưng","image":["https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546818513212298_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546810641156732_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546807165782279_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546805183246890_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546803003366708_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532179630740794_avt.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546800400664544_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546795511352525_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532171089169684_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532168570061722_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532163908569394_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546792394732549_AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2020/11/12/637407905774781985_FRT02784-avt.jpg","https://fptshop.com.vn/Uploads/Originals/2020/11/12/637407906196958642_OP-IPHONE-12-PRO-AVT.jpg","https://fptshop.com.vn/Uploads/Originals/2020/11/23/637417318108386819_1000px_Apple_iPhone6.1_2020_MVE_SBL_NDV_PT01.png","https://fptshop.com.vn/Uploads/Originals/2020/11/23/637417322236973955_1000px_Apple_iPhone6.1_2020_PLM_ICE_NDV_PT01.png","https://fptshop.com.vn/Uploads/Originals/2020/11/23/637417320976664910_1000px_Apple_iPhone6.1_2020_PATSE_MDC_NDV_PT01.png","https://fptshop.com.vn/Uploads/Originals/2020/12/3/637426081462990837_1000px_Apple_iPhone6.7_2020_MVE_ICE_NDV_PT01.jpg","https://fptshop.com.vn/Uploads/Originals/2020/12/3/637426080832523996_1000px_Apple_iPhone6.7_2020_PLM_ICE_NDV_PT01.jpg","https://fptshop.com.vn/Uploads/Originals/2020/11/13/637408832538670179_1000px_Apple_iPhone6.7_2020_PATSE_FRC_NDV_PT01.jpeg"],"brand":{"@type":"Brand","name":["Meetu","UAG"]},"offers":{"@type":"AggregateOffer","availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition","priceCurrency":"VND","highPrice":1150000.0000,"lowPrice":69000.0000,"offerCount":20}}
+</script>
+    
+
+    <div class="category-container">
+        <div class="row">
+            <ol class="breadcrumb breadcrumb-margin">
+                <li class="breadcrumb-item"><a href="/" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Click Breadcrumb ', 'Trang chủ');">Trang chủ</a></li>
+                <li class="breadcrumb-item"><a href="/phu-kien" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Click Breadcrumb ', 'Phụ kiện');">Phụ kiện</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Bao da &#x1ED1;p l&#x1B0;ng</li>
+            </ol>
+        </div>
+    </div>
+    <section class="section-banner swiper-custom banner-cate">
+        <div class="category-container">
+            <div class="row">
+                <div class="col-6 pl-0 pr-15">
+                            <div class="swiper-container section-banner-js">
+            <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a href="https://fptshop.com.vn/phu-kien/fpt-play-box-550" class="banner-slide-img">
+                                <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/590x160/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/6/14/637592559040290670_FPTPLAY BOX 590X160.png" alt="C3  - Galaxy play box"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="https://fptshop.com.vn/phu-kien/tai-nghe?thuong-hieu=ivalue" class="banner-slide-img">
+                                <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/590x160/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/6/3/637583189904274251_F-C3_590x160.png" alt="C3 -tai nghe"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="https://fptshop.com.vn/phu-kien/loa" class="banner-slide-img">
+                                <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/590x160/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/6/14/637592890196699914_F-C3_590x160-loa.png" alt="Loa-C3"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="https://fptshop.com.vn/phu-kien/bao-da-op-lung?sort=gia-thap-den-cao" class="banner-slide-img">
+                                <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/590x160/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/6/1/637581032279970059_F-C3_590x160.png" alt="C3-&#x1ED0;p L&#x1B0;ng"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="https://fptshop.com.vn/phu-kien/sac-du-phong" class="banner-slide-img">
+                                <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/590x160/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/6/14/637593005020658224_F-C3_590x160-sac-du-phong.png" alt="C3-SDP"/>
+                            </a>
+                        </div>
+
+
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+            <!-- Add Arrows -->
+            <div class="swiper-button-next">
+                <span> <img src="/phu-kien/Content/Ver2/images/right-arrow.png" alt="right-arrow"/></span>
+            </div>
+            <div class="swiper-button-prev">
+                <span> <img src="/phu-kien/Content/Ver2/images/left-arrow.png" alt="left-arrow"/></span>
+            </div>
+        </div>
+
+                </div>
+                <div class="col-6 pr-0 pl-15">
+                    <div class="search-block">
+    <div class="card">
+        <div class="card-body">
+            <div class="typography text-center">
+                <div class="typography-title">Tìm kiếm phụ kiện</div>
+            </div>
+            <div class="select-search">
+                <img src="/phu-kien/Content/Ver2/images/search.png" alt="search" class="img-pos"/>
+                <input type="text" class="search-txtpknew" placeholder="Nhập tên thiết bị"/>
+                <ul class="search-lstresult select-search">
+                </ul>
+            </div>
+                <div class="tag-items">
+                    <span class="label">Thông dụng:</span>
+                        <a href="/phu-kien/dien-thoai/iphone-12-64gb" class="tag-item">
+                            iPhone 12
+                        </a>
+                        <a href="/phu-kien/dien-thoai/iphone-12-mini-64gb" class="tag-item">
+                            iPhone 12 Mini
+                        </a>
+                        <a href="/phu-kien/dien-thoai/samsung-galaxy-s20" class="tag-item">
+                            Samsung S20
+                        </a>
+                        <a href="/phu-kien/dien-thoai/samsung-galaxy-s20-ultra" class="tag-item">
+                            Samsung S20 Ultra
+                        </a>
+                </div>
+
+        </div>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-common">
+        <div class="category-container">
+            <div class="section-accessories">
+                <div class="card">
+                        <div class="card-body p0">
+        <div class="characters">
+                <div class="character" data-cate="/phu-kien">
+                    <a href="/phu-kien" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Ph&#x1EE5; ki&#x1EC7;n n&#x1ED5;i b&#x1EAD;t');">
+                        <div class="character-img">
+                            <i class="icon-Combined-Shape"> </i>
+                        </div>
+                        <p class="character-label">Ph&#x1EE5; ki&#x1EC7;n n&#x1ED5;i b&#x1EAD;t</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/apple/phu-kien">
+                    <a href="/apple/phu-kien" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Ph&#x1EE5; ki&#x1EC7;n Apple');">
+                        <div class="character-img">
+                            <i class="icon-apple"> </i>
+                        </div>
+                        <p class="character-label">Ph&#x1EE5; ki&#x1EC7;n Apple</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/bao-da-op-lung">
+                    <a href="/phu-kien/bao-da-op-lung" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Bao da &#x1ED1;p l&#x1B0;ng');">
+                        <div class="character-img">
+                            <i class="icon-cover"> </i>
+                        </div>
+                        <p class="character-label">Bao da &#x1ED1;p l&#x1B0;ng</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/sac-du-phong">
+                    <a href="/phu-kien/sac-du-phong" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'S&#x1EA1;c d&#x1EF1; ph&#xF2;ng');">
+                        <div class="character-img">
+                            <i class="icon-battery-charge"> </i>
+                        </div>
+                        <p class="character-label">S&#x1EA1;c d&#x1EF1; ph&#xF2;ng</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/the-nho">
+                    <a href="/phu-kien/the-nho" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Th&#x1EBB; nh&#x1EDB;');">
+                        <div class="character-img">
+                            <i class="icon-sdcard"> </i>
+                        </div>
+                        <p class="character-label">Th&#x1EBB; nh&#x1EDB;</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/mieng-dan-man-hinh">
+                    <a href="/phu-kien/mieng-dan-man-hinh" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Mi&#x1EBF;ng d&#xE1;n m&#xE0;n h&#xEC;nh');">
+                        <div class="character-img">
+                            <i class="icon-screenprotect"> </i>
+                        </div>
+                        <p class="character-label">Mi&#x1EBF;ng d&#xE1;n m&#xE0;n h&#xEC;nh</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/tai-nghe">
+                    <a href="/phu-kien/tai-nghe" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Tai nghe');">
+                        <div class="character-img">
+                            <i class="icon-headphone"> </i>
+                        </div>
+                        <p class="character-label">Tai nghe</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/loa">
+                    <a href="/phu-kien/loa" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Loa');">
+                        <div class="character-img">
+                            <i class="icon-speaker"> </i>
+                        </div>
+                        <p class="character-label">Loa</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/usb-o-cung">
+                    <a href="/phu-kien/usb-o-cung" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'USB - &#x1ED4; c&#x1EE9;ng');">
+                        <div class="character-img">
+                            <i class="icon-drive"> </i>
+                        </div>
+                        <p class="character-label">USB - &#x1ED4; c&#x1EE9;ng</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/sac-cap">
+                    <a href="/phu-kien/sac-cap" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'S&#x1EA1;c c&#xE1;p');">
+                        <div class="character-img">
+                            <i class="icon-cable"> </i>
+                        </div>
+                        <p class="character-label">S&#x1EA1;c c&#xE1;p</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/chuot">
+                    <a href="/phu-kien/chuot" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Chu&#x1ED9;t');">
+                        <div class="character-img">
+                            <i class="icon-mouse"> </i>
+                        </div>
+                        <p class="character-label">Chu&#x1ED9;t</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/ban-phim">
+                    <a href="/phu-kien/ban-phim" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'B&#xE0;n ph&#xED;m');">
+                        <div class="character-img">
+                            <i class="icon-keyboard"> </i>
+                        </div>
+                        <p class="character-label">B&#xE0;n ph&#xED;m</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/balo-tui-xach">
+                    <a href="/phu-kien/balo-tui-xach" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Balo - T&#xFA;i x&#xE1;ch');">
+                        <div class="character-img">
+                            <i class="icon-bag"> </i>
+                        </div>
+                        <p class="character-label">Balo - T&#xFA;i x&#xE1;ch</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/tv-box">
+                    <a href="/phu-kien/tv-box" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'TV BOX');">
+                        <div class="character-img">
+                            <i class="icon-video"> </i>
+                        </div>
+                        <p class="character-label">TV BOX</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/muc-in">
+                    <a href="/phu-kien/muc-in" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'M&#x1EF1;c in');">
+                        <div class="character-img">
+                            <i class="icon-printer-ink"> </i>
+                        </div>
+                        <p class="character-label">M&#x1EF1;c in</p>
+                    </a>
+                    
+                </div>
+                <div class="character" data-cate="/phu-kien/phu-kien-khac">
+                    <a href="/phu-kien/phu-kien-khac" class="character-url" onclick="ga('send', 'event', 'Accessories Category', 'Click Navigation ', 'Ph&#x1EE5; ki&#x1EC7;n kh&#xE1;c');">
+                        <div class="character-img">
+                            <i class="icon-dot"> </i>
+                        </div>
+                        <p class="character-label">Ph&#x1EE5; ki&#x1EC7;n kh&#xE1;c</p>
+                    </a>
+                    
+                </div>
+            
+        </div>
+        <a href="javascript:void(0);" class="btn-vm">
+            <img src="/phu-kien/Content/Ver2/images/down-arrow.png" alt="down"/>
+        </a>
+    </div>
+
+                </div>
+            </div>
+
+            <div class="section-normal">
+                <div class="card">
+                    <div class="card-header card-header--custom">
+                        <div class="typography">
+                                <h1 class="typography-title">Bao da &#x1ED1;p l&#x1B0;ng</h1>
+
+                            <span class="countproduct" style="display:none;">(0 sản phẩm)</span>
+                        </div>
+                    </div>
+                    <div class="card-body p0 lstproduct">
+                        
+
+<div class="normal-filter">
+    <div class="filter-list">
+        <div class="filter-list_inner">
+<div class="ss-dropdown cs-dr categoryList">
+    <div class="ss-dropdown-button">
+        D&#xF2;ng s&#x1EA3;n ph&#x1EA9;m
+        <span class="ss-dropdown-arrow ss-dropdown-arrow--triangle"></span>
+    </div>
+    <div class="ss-dropdown-menu ">
+                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=iphone-12" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> iPhone 12</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=iphone-12-mini" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> iPhone 12 mini</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=iphone-12-pro" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> iPhone 12 Pro</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=iphone-12-pro-max" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> iPhone 12 Pro Max</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=iphone-xs" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> iPhone Xs</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=galaxy-note-10" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Galaxy Note 10</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=galaxy-note-10-plus" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Galaxy Note 10 Plus</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=galaxy-s10" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Galaxy S10</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=galaxy-s10-plus" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Galaxy S10 Plus</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;dong-san-pham=oppo-a9-2020" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> OPPO A9 2020</a>                                        </div>    </div>
+</div> <div class="ss-dropdown cs-dr categoryList">
+    <div class="ss-dropdown-button">
+        Thi&#x1EBF;t b&#x1ECB; t&#x1B0;&#x1A1;ng th&#xED;ch
+        <span class="ss-dropdown-arrow ss-dropdown-arrow--triangle"></span>
+    </div>
+    <div class="ss-dropdown-menu ">
+                                        <div class="cs-dr-scr">
+
+                <a class="active" href="/phu-kien/bao-da-op-lung?loai=op-lung" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> &#x110;i&#x1EC7;n tho&#x1EA1;i</a>                                         </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai,laptop&amp;loai=op-lung" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Laptop</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai,tablet&amp;loai=op-lung" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Tablet</a>                                        </div>    </div>
+</div> <div class="ss-dropdown cs-dr categoryList">
+    <div class="ss-dropdown-button">
+        Ch&#x1EA5;t li&#x1EC7;u
+        <span class="ss-dropdown-arrow ss-dropdown-arrow--triangle"></span>
+    </div>
+    <div class="ss-dropdown-menu ">
+                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;chat-lieu=da" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Da</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;chat-lieu=nhua" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Nh&#x1EF1;a</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;chat-lieu=silicon" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Silicon</a>                                        </div>                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;chat-lieu=vien-kim-loai" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Vi&#x1EC1;n kim lo&#x1EA1;i</a>                                        </div>    </div>
+</div> <div class="ss-dropdown cs-dr categoryList">
+    <div class="ss-dropdown-button">
+        Lo&#x1EA1;i
+        <span class="ss-dropdown-arrow ss-dropdown-arrow--triangle"></span>
+    </div>
+    <div class="ss-dropdown-menu ">
+                                        <div class="cs-dr-scr">
+
+<a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung,bao-da" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Bao da</a>                                        </div>                                        <div class="cs-dr-scr">
+
+                <a class="active" href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> &#x1ED0;p l&#x1B0;ng</a>                                         </div>    </div>
+</div> <a class="ck-sc" href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;khac=apple-chinh-hang" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Apple ch&#xED;nh h&#xE3;ng</a><a class="ck-sc" href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;khac=kiem-sac-du-phong" onclick="ga('send', 'event', 'Accessories Category', 'Click Filter ', 'Bao da &#x1ED1;p l&#x1B0;ng');"><i class="ic-checkbox"></i> Ki&#xEA;m s&#x1EA1;c d&#x1EF1; ph&#xF2;ng</a>        </div>
+        <div class="ss-dropdown cs-dropdown">
+            <div class="ss-dropdown-button">
+B&#xE1;n ch&#x1EA1;y nh&#x1EA5;t
+                <span class="ss-dropdown-arrow ss-dropdown-arrow--triangle"></span>
+            </div>
+            <div class="ss-dropdown-menu">
+
+                <a class=active href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;sort=ban-chay-nhat" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Click Sort', 'Bán chạy nhất');">Bán chạy nhất</a>
+                <a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;sort=gia-thap-den-cao" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Click Sort', 'Giá thấp đến cao');">Giá thấp đến cao</a>
+                <a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;sort=gia-cao-den-thap" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Click Sort', 'Giá cao đến thấp');">Giá cao đến thấp</a>
+                <a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai&amp;loai=op-lung&amp;sort=hang-moi-ve" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Click Sort', 'Hàng mới về');">Hàng mới về</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sh-filter">
+    <div class="sh-filter__inner">
+        <div class="cdt-list-tag tag-fillter">
+            <span data-url="">Lọc theo: </span>
+<a href="/phu-kien/bao-da-op-lung?loai=op-lung">&#x110;i&#x1EC7;n tho&#x1EA1;i <i class="icon-cancel"></i></a><a href="/phu-kien/bao-da-op-lung?thiet-bi-tuong-thich=dien-thoai">&#x1ED0;p l&#x1B0;ng <i class="icon-cancel"></i></a><a href="/phu-kien/bao-da-op-lung" class="fs-ctf-fidelall">Xóa tất cả<i class="icon-cancel"></i></a>
+        </div>
+    </div>
+</div>
+                                    <style>.product-item.product-sale .product_img{height:210px;margin:auto auto 16px;background:url(https://fptshop.com.vn/Uploads/images/2015/giasoccuoituan/home-frame-desk.png) no-repeat center;background-size:100% 100%;box-sizing:border-box;border-radius:6px;transition:all .3s}.product-item .product_img{padding:0}.product-item.product-sale .product_img img{max-height:168px;margin-top:33px}</style>
+        <input type="hidden" name="trackingproducts" id="trackingproducts" value="[{&quot;ID&quot;:36320,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A72 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude&quot;,&quot;Sku&quot;:&quot;00748137&quot;,&quot;price&quot;:&quot;69000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:0},{&quot;ID&quot;:36319,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A52 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude&quot;,&quot;Sku&quot;:&quot;00748136&quot;,&quot;price&quot;:&quot;69000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:1},{&quot;ID&quot;:36318,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A32 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude&quot;,&quot;Sku&quot;:&quot;00748135&quot;,&quot;price&quot;:&quot;69000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:2},{&quot;ID&quot;:36282,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Xiaomi Mi 10T Lite 5G Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu&quot;,&quot;Sku&quot;:&quot;00746927&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:3},{&quot;ID&quot;:36281,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Xiaomi Mi 10T Lite 5G Nh&#x1EF1;a d&#x1EBB;o Simple TPU Meetu&quot;,&quot;Sku&quot;:&quot;00746926&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:4},{&quot;ID&quot;:36099,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A72 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu&quot;,&quot;Sku&quot;:&quot;00742712&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:5},{&quot;ID&quot;:36098,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A52 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu&quot;,&quot;Sku&quot;:&quot;00742711&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:6},{&quot;ID&quot;:36097,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A32 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu&quot;,&quot;Sku&quot;:&quot;00742710&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:7},{&quot;ID&quot;:36023,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A12 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude&quot;,&quot;Sku&quot;:&quot;00740084&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:8},{&quot;ID&quot;:36022,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A12 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu&quot;,&quot;Sku&quot;:&quot;00740083&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:9},{&quot;ID&quot;:36021,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Samsung A02s Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude&quot;,&quot;Sku&quot;:&quot;00740081&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:10},{&quot;ID&quot;:36020,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng Oppo Reno 5 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu&quot;,&quot;Sku&quot;:&quot;00740080&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:11},{&quot;ID&quot;:35601,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng iPhone 12 Mini Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu&quot;,&quot;Sku&quot;:&quot;00718124&quot;,&quot;price&quot;:&quot;69000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:12},{&quot;ID&quot;:35600,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng iPhone 12 Pro Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu&quot;,&quot;Sku&quot;:&quot;00718126&quot;,&quot;price&quot;:&quot;99000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;Meetu&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:13},{&quot;ID&quot;:35540,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Mouve&quot;,&quot;Sku&quot;:&quot;00722685&quot;,&quot;price&quot;:&quot;950000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;UAG&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:14},{&quot;ID&quot;:35539,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Plasma&quot;,&quot;Sku&quot;:&quot;00722683&quot;,&quot;price&quot;:&quot;950000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;UAG&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:15},{&quot;ID&quot;:35538,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Pathfinder SE&quot;,&quot;Sku&quot;:&quot;00722681&quot;,&quot;price&quot;:&quot;1150000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;UAG&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:16},{&quot;ID&quot;:35537,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Mouve&quot;,&quot;Sku&quot;:&quot;00722678&quot;,&quot;price&quot;:&quot;950000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;UAG&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:17},{&quot;ID&quot;:35536,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Plasma&quot;,&quot;Sku&quot;:&quot;00722675&quot;,&quot;price&quot;:&quot;950000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;UAG&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:18},{&quot;ID&quot;:35535,&quot;Name&quot;:&quot;&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Pathfinder SE&quot;,&quot;Sku&quot;:&quot;00722674&quot;,&quot;price&quot;:&quot;1150000.0000&quot;,&quot;List&quot;:&quot;Products&quot;,&quot;Brand&quot;:&quot;UAG&quot;,&quot;Category&quot;:&quot;Bao da &#x1ED1;p l&#x1B0;ng&quot;,&quot;Position&quot;:19}]"/>
+        <div class="normal-body ">
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a72-nhua-deo-naked-tpu-meetu-nude">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546818513212298_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A72 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a72-nhua-deo-naked-tpu-meetu-nude">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A72 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A72
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                69.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a72-nhua-deo-naked-tpu-meetu-nude" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a52-nhua-deo-naked-tpu-meetu-nude">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546810641156732_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A52 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a52-nhua-deo-naked-tpu-meetu-nude">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A52 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A52
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                69.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a52-nhua-deo-naked-tpu-meetu-nude" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a32-nhua-deo-naked-tpu-meetu-nude">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546807165782279_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A32 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a32-nhua-deo-naked-tpu-meetu-nude">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A32 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A32
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                69.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a32-nhua-deo-naked-tpu-meetu-nude" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-xiaomi-mi-10t-lite-5g-nhua-deo-carbon-fibre-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546805183246890_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Xiaomi Mi 10T Lite 5G Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-xiaomi-mi-10t-lite-5g-nhua-deo-carbon-fibre-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Xiaomi Mi 10T Lite 5G Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Xiaomi Mi 10T Lite 5G
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-xiaomi-mi-10t-lite-5g-nhua-deo-carbon-fibre-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-xiaomi-mi-10t-lite-5g-nhua-deo-simple-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546803003366708_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Xiaomi Mi 10T Lite 5G Nh&#x1EF1;a d&#x1EBB;o Simple TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-xiaomi-mi-10t-lite-5g-nhua-deo-simple-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Xiaomi Mi 10T Lite 5G Nh&#x1EF1;a d&#x1EBB;o Simple TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Xiaomi Mi 10T Lite 5G
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-xiaomi-mi-10t-lite-5g-nhua-deo-simple-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a72-nhua-deo-carbon-fibre-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532179630740794_avt.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A72 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a72-nhua-deo-carbon-fibre-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A72 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A72
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a72-nhua-deo-carbon-fibre-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a52-nhua-deo-carbon-fibre-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546800400664544_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A52 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a52-nhua-deo-carbon-fibre-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A52 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A52
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a52-nhua-deo-carbon-fibre-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a32-nhua-deo-carbon-fibre-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546795511352525_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A32 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a32-nhua-deo-carbon-fibre-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A32 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A32
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a32-nhua-deo-carbon-fibre-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a12-nhua-deo-naked-tpu-meetu-nude">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532171089169684_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A12 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a12-nhua-deo-naked-tpu-meetu-nude">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A12 Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A12
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a12-nhua-deo-naked-tpu-meetu-nude" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a12-nhua-deo-carbon-fibre-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532168570061722_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A12 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a12-nhua-deo-carbon-fibre-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A12 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A12
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a12-nhua-deo-carbon-fibre-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-samsung-a02s-nhua-deo-naked-tpu-meetu-nude">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/5/637532163908569394_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Samsung A02s Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-samsung-a02s-nhua-deo-naked-tpu-meetu-nude">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Samsung A02s Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu Nude
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        Galaxy A02s
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-samsung-a02s-nhua-deo-naked-tpu-meetu-nude" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-oppo-reno-5-nhua-deo-carbon-fibre-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2021/4/22/637546792394732549_AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng Oppo Reno 5 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-oppo-reno-5-nhua-deo-carbon-fibre-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng Oppo Reno 5 Nh&#x1EF1;a d&#x1EBB;o Carbon Fibre TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        OPPO Reno5
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-oppo-reno-5-nhua-deo-carbon-fibre-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-iphone-12-mini-nhua-deo-naked-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/11/12/637407905774781985_FRT02784-avt.jpg" alt="&#x1ED0;p l&#x1B0;ng iPhone 12 Mini Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-iphone-12-mini-nhua-deo-naked-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng iPhone 12 Mini Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Silicon
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 mini
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                69.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-iphone-12-mini-nhua-deo-naked-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-iphone-12-pro-nhua-deo-naked-tpu-meetu">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/11/12/637407906196958642_OP-IPHONE-12-PRO-AVT.jpg" alt="&#x1ED0;p l&#x1B0;ng iPhone 12 Pro Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-iphone-12-pro-nhua-deo-naked-tpu-meetu">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng iPhone 12 Pro Nh&#x1EF1;a d&#x1EBB;o Naked TPU Meetu
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Silicon
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                99.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-iphone-12-pro-nhua-deo-naked-tpu-meetu" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-mouve">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/11/23/637417318108386819_1000px_Apple_iPhone6.1_2020_MVE_SBL_NDV_PT01.png" alt="&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Mouve"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-mouve">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Mouve
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                950.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-mouve" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-plasma">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/11/23/637417322236973955_1000px_Apple_iPhone6.1_2020_PLM_ICE_NDV_PT01.png" alt="&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Plasma"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-plasma">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Plasma
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                950.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-plasma" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-pathfinder-se">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/11/23/637417320976664910_1000px_Apple_iPhone6.1_2020_PATSE_MDC_NDV_PT01.png" alt="&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Pathfinder SE"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-pathfinder-se">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 / 12 Pro Pathfinder SE
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                1.150.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-uag-cho-iphone-12-12-pro-pathfinder-se" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-mouve">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/12/3/637426081462990837_1000px_Apple_iPhone6.7_2020_MVE_ICE_NDV_PT01.jpg" alt="&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Mouve"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-mouve">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Mouve
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro Max
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                950.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-mouve" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-plasma">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/12/3/637426080832523996_1000px_Apple_iPhone6.7_2020_PLM_ICE_NDV_PT01.jpg" alt="&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Plasma"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-plasma">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Plasma
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro Max
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                950.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-plasma" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-item product-sale">
+                    <div class="product_img">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-pathfinder-se">
+                            <img class="lazyload" data-src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/https://fptshop.com.vn/Uploads/Originals/2020/11/13/637408832538670179_1000px_Apple_iPhone6.7_2020_PATSE_FRC_NDV_PT01.jpeg" alt="&#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Pathfinder SE"/>
+                        </a>
+                        <div class="product_label">
+                            <span class="badge badge-warning"></span>
+                        </div>
+                    </div>
+                    <div class="product_info">
+                        <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-pathfinder-se">
+                            <h3 class="product_name">
+                                &#x1ED0;p l&#x1B0;ng UAG cho iPhone 12 Pro Max Pathfinder SE
+                            </h3>
+                        </a>
+                            <div class="product_tags">
+                                    <span class="product_tag">
+                                        Nh&#x1EF1;a
+                                    </span>
+                                    <span class="product_tag">
+                                        iPhone 12 Pro Max
+                                    </span>
+
+                            </div>
+                            <div class="product_main-price">
+                                1.150.000 ₫
+                            </div>
+
+                        <div class="product_btn">
+                            <a href="/phu-kien/op-lung-uag-cho-iphone-12-pro-max-pathfinder-se" class="btn btn-primary btn-sm btn-main">MUA NGAY</a>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+        <script>$(document).ready(function(){if(121>0){$('.countproduct').text("("+121+" sản phẩm)");$('.countproduct').show();}else{$('.countproduct').hide();}if(101>0){$('.btn-viewmore').show();}else{$('.btn-viewmore').hide();}});</script>
+
+
+
+                    </div>
+                    <a class="btn btn-secondary btn-viewmore" data-page="2" style="display:none; cursor:pointer;" onclick="ga('send', 'event', 'Filter Pages (PC)', 'Pagination Load More', 'Xem thêm', {'nonInteraction': 1});">
+                        <span class="txtbtnmore">
+                            Xem thêm
+                        </span>
+                        <i id="btn_Loadmore_Prominent" style="display: none;" class="icon-spin animate-spin"> </i>
+                    </a>
+                </div>
+            </div>
+            <input type="text" name="listFilter" id="list-filter" value="192,235" hidden />
+            <input type="text" name="idSort" id="id-sort" value="2" hidden />
+            <input type="text" value="1661" id="cateid-from-ctl" hidden />
+            <input type="text" value="/phu-kien/bao-da-op-lung" id="urlcate" hidden />
+        </div>
+    </section>
+
+
+        <div class="policy">
+            <div class="category-container">
+                <div class="policy-row">
+                    <div class="policy-item">
+                        <a href="javascript:void(0)" class="policy-inner text-center" style="cursor:unset">
+                            <div class="policy-picture">
+                                <img src="/phu-kien/Content/Ver2/images/g1.png" alt="g1">
+                            </div>
+                            <div class="policy-inf">
+                                <div class="policy-title">Thương hiệu đảm bảo</div>
+                                <div class="policy-mess">Nhập khẩu và bảo hành chính hãng</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="policy-item">
+                        <a href="javascript:void(0)" class="policy-inner text-center" style="cursor:unset">
+                            <div class="policy-picture">
+                                <img src="/phu-kien/Content/Ver2/images/g2.png" alt="g2">
+                            </div>
+                            <div class="policy-inf">
+                                <div class="policy-title">Đổi trả dễ dàng</div>
+                                <div class="policy-mess">Theo chính sách đổi trả tại FPTShop</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="policy-item">
+                        <a href="javascript:void(0)" class="policy-inner text-center" style="cursor:unset">
+                            <div class="policy-picture">
+                                <img src="/phu-kien/Content/Ver2/images/g3.png" alt="g3">
+                            </div>
+                            <div class="policy-inf">
+                                <div class="policy-title">Giao hàng tận nơi</div>
+                                <div class="policy-mess">Tại 63 tỉnh thành</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="policy-item">
+                        <a href="javascript:void(0)" class="policy-inner text-center" style="cursor:unset">
+                            <div class="policy-picture">
+                                <img src="/phu-kien/Content/Ver2/images/g4.png" alt="g4">
+                            </div>
+                            <div class="policy-inf">
+                                <div class="policy-title">Sản phẩm chất lượng</div>
+                                <div class="policy-mess">Đảm bảo tương thích và độ bền cao</div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <footer>
+   <div class="fs-footer">
+      <div class="f-wrap">
+         <div class="fs-ftrow clearfix">
+            <div class="fs-ftcol fs-ftcol1">
+               <ul class="fs-ftul">
+                  <li><a target="_blank" rel="nofollow noopener" href="http://frt.vn/">Giới thiệu về công ty</a></li>
+                  <li><a href="//fptshop.com.vn/ho-tro/cau-hoi-thuong-gap" title="Câu hỏi thường gặp mua hàng">Câu hỏi thường gặp mua hàng</a></li>
+                  <li><a href="//fptshop.com.vn/ho-tro/chinh-sach-bao-mat" title="">Chính sách bảo mật</a></li>
+                  <li><a href="//fptshop.com.vn/tos" title="">Quy chế hoạt động</a></li>
+                  <li><a href="http://hddt.fptshop.com.vn/" title="">Kiểm tra hóa đơn điện tử</a></li>
+                  <li><a href="//fptshop.com.vn/kiem-tra-bao-hanh?tab=thong-tin-bao-hanh" title="">Tra cứu thông tin bảo hành</a></li>
+               </ul>
+            </div>
+            <div class="fs-ftcol fs-ftcol1">
+               <ul class="fs-ftul">
+                  <li><a href="//vieclam.fptshop.com.vn/">Tin tuyển dụng</a></li>
+                  <li><a href="//fptshop.com.vn/tin-tuc/Tin-khuyen-mai" title="">Tin khuyến mãi</a></li>
+                  <li><a href="//fptshop.com.vn/ho-tro/huong-dan-mua-hang" title="">Hướng dẫn mua online</a></li>
+                  <li><a href="//fptshop.com.vn/tra-gop" title="">Hướng dẫn mua trả góp</a></li>
+                  <li><a href="https://fptshop.com.vn/ho-tro/chinh-sach-tra-gop" title="">Chính sách trả góp</a></li>
+               </ul>
+            </div>
+            <div class="fs-ftcol fs-ftcol1">
+               <ul class="fs-ftul">
+                  <li><a href="//fptshop.com.vn/cua-hang">Hệ thống cửa hàng</a></li>
+                  <li><a href="//fptshop.com.vn/ho-tro/chinh-sach-bao-hanh" title="">Hệ thống bảo hành</a></li>
+				  <li><a href="https://fptshop.com.vn/ban-hang-doanh-nghiep" title="">Bán hàng doanh nghiệp</a></li>
+                  <li><a href="//fptshop.com.vn/kiem-tra-hang-apple-chinh-hang" title="">Kiểm tra hàng Apple chính hãng</a></li>
+                  <li><a href="//fptshop.com.vn/ho-tro/gioi-thieu-may-doi-tra" title="">Giới thiệu máy đổi trả</a></li>
+                  <li><a href="https://fptshop.com.vn/ho-tro/chinh-sach-doi-san-pham" title="">Chính sách đổi trả</a></li>
+               </ul>
+            </div>
+            <div class="fs-ftcol  fs-ftcol2">
+               <ul class="fs-ftr2 clearfix">
+                  <li>
+                     <p class="fs-ftrtit">Tư vấn mua hàng (Miễn phí)</p>
+                     <a href="tel:18006601" title="">1800 6601 </a> <span>(Nhánh 1)</span> 
+                     <p class="fs-ftrtit">Hỗ trợ kỹ thuật</p>
+                     <a href="tel:18006601" title="">1800 6601 </a><span>(Nhánh 2)</span>
+                  </li>
+                  <li>
+                     <p class="fs-ftrtit">Góp ý, khiếu nại dịch vụ (8h00-22h00)</p>
+                     <a href="tel:18006616" title="">1800 6616</a></br>
+                     <!-- <a href="tel:18006601" title="">1800 6601 </a><span>(Nhánh 3)</span> -->
+                  </li>
+               </ul>
+               <div class="fs-ftrright">
+                  <div class="fs-ftr1">
+                     <p class="fs-ftrtit">Hỗ trợ thanh toán:</p>
+                     <a class="fs-ftr-vs" href="javascript:;" title="" style="cursor: none;"></a><a class="fs-ftr-mt" href="javascript:;" title="" style="cursor: none;"></a><a class="fs-ftr-atm" href="javascript:;" title="" style="cursor: none;"></a>
+                     <ul class="fs-frgbhg">
+                        <li><a class="fs-ftr-chf" href="/ho-tro" title=""></a></li>
+                        <li><a rel="nofollow noopener" class="fs-ftr-cthuong" href="http://online.gov.vn/Home/WebDetails/21883" title=""></a></li>
+                     </ul>
+                  </div>
+                  <div class="fs-ftr3">
+                     <p class="fs-ftrtit">Chứng nhận:</p>
+                     <ul>
+                        <li><a class="fs-ftr-dmca" href="javascript:;" title="" style="cursor: none;"></a></li>
+                        <li><a class="fs-ftr-sp" href="javascript:;" title="" style="cursor: none;"></a></li>
+                        <li><a class="fs-ftr-thieuvn" href="javascript:;" title="" style="cursor: none;"></a></li>
+                     </ul>
+                     <p class="fs-ftrtitlg">Website cùng tập đoàn:</p>
+                     <ul class="fs-frgbhg">
+                        <li><a rel="nofollow noopener" class="fs-ftr-ilc" href="https://nhathuoclongchau.com"></a></li>
+                        <li><a rel="nofollow noopener" class="fs-ftr-ifbe" href="https://fbeauty.vn"></a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="fs-ftbott">© 2007 - 2021 Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT / Địa chỉ: 261 - 263 Khánh Hội, P5, Q4, TP. Hồ Chí Minh / GPĐKKD số 0311609355 do Sở KHĐT TP.HCM cấp ngày 08/03/2012. GP số 47/GP-TTĐT do sở TTTT TP HCM cấp ngày 02/07/2018. Điện thoại: (028)73023456. Email: fptshop@fpt.com.vn. Chịu trách nhiệm nội dung: Nguyễn Trịnh Nhật Linh.</div>
+</footer>
+<!-- <script src="https://fptshop.com.vn/content/search/js/selectize.min.js"></script> -->
+<!-- <script src="https://fptshop.com.vn/content/search/js/algoliasearch-lite.umd.js"></script> -->
+<!-- <script src="https://fptshop.com.vn/content/search/js/instantsearch.js"></script> -->
+<script src="https://fptshop.com.vn/Scripts/v4/fpt-shop/jfpts.main.js?v=2020101514758"></script>
+<script src="https://fptshop.com.vn/Content/Publishing/js/sourceutm.min.js?v=6"></script>
+<style>a.tooltips{outline:none}a.tooltips span{z-index:10;display:none;padding:10px 15px;margin-top:30px;margin-left:-160px;width:280px;-moz-box-shadow:0 0 5px 1px #ccc;-webkit-box-shadow:0 0 5px 1px #ccc;box-shadow:0 0 5px 1px #ccc}a.tooltips:hover span{display:inline;position:absolute;border:1px solid #ccc;background:#fff}.fs-ftrtit{font-size:15px}.box-container .box-left .gallery-thumbs .swiper-wrapper{justify-content:flex-start}.category-container{overflow:unset}.f-search{background-repeat:no-repeat;background-image:url(/Content/v4/images/iconhd.png?v=123);background-size:auto}.f-search{background-position:-7px -87px}.fs-ftcol1{padding:0 12px}</style>
+<!-- <script src="https://js.fpt.shop/speed/null.js" type="text/javascript"></script> <noscript><iframe width="1" height="2" noresize="noresize" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="https://evania.adspirit.de/adrtpiggy.php?pid=37&type=2" ALLOWTRANSPARENCY="true"></iframe></noscript>  -->
+    
+
+    <script>$(document).on('click','.comment-pagination li.to-top',function(){$('html,body').animate({scrollTop:$("#new-comment-rc").offset().top},'slow');})</script>
+</body>
+</html>";}
